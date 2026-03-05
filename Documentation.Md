@@ -4,7 +4,6 @@ Ce fichier explique chaque notion JavaScript dont vous avez besoin pour réalise
 Pour chaque outil : une explication simple, la syntaxe, et des exemples concrets.
 
 ---
-
 ## Sommaire
 
 | Outil | Utilisé dans |
@@ -440,7 +439,7 @@ if (nomCorrige === "") {
   nomCorrige = "Inconnu"
 }
 
-console.log("nom : \"" + nomCorrige + "\"")
+
 // Affiche : nom : "Fatima"
 ```
 
